@@ -43,8 +43,8 @@ export default function BackgroundRippleEffectDemo() {
 
           <div className={`relative h-full w-full rounded-3xl border-2 p-2 transition-colors duration-500 overflow-hidden ${isDark ? "border-white/10 bg-zinc-900/50" : "border-black/5 bg-white"}`}>
             <Image
-              src="/profile.jpeg"
-              alt="profile.jpeg"
+              src="/profile.jpeg.jpeg"
+              alt="profile.jpeg.jpeg"
               fill
               className="object-cover transition-transform duration-700 hover:scale-110"
               priority

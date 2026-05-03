@@ -7,6 +7,13 @@ import { Briefcase, GraduationCap, Calendar } from "lucide-react";
 
 const experiences = [
   {
+    title: "Java Full Stack Developer Intern",
+    organization: "TAP Academy, Bengaluru, Karnataka",
+    period: "Feb 2026 – Present",
+    description: "Developing full-stack web applications using Java and modern frontend frameworks, focusing on performance and scalability. Implementing RESTful APIs, managing databases, and integrating AI-based features for intelligent decision-making. Collaborating on real-time projects, applying clean coding practices, and using version control for efficient development workflows",
+    tech: ["Java", "Spring Boot", "Servlets", "MySQL", "HTML", "CSS", "JavaScript", "React.js", "Git", "GitHub", "REST API"]
+  },
+  {
     title: "Portable Rapid Microbial Detection for Dairy Safety",
     organization: "1.SMART INDIA HACKATHON 2024",
     period: "Dec2024|Bhopal ",
@@ -26,19 +33,7 @@ const experiences = [
     period: "Sep2025 –Dec2025",
     description: "Participated in the Future Founders Program, learning startup innovation, ideation, and prototype development. Collaborated with teammates to explore new ideas, gained mentorship from industry experts, and contributed to developing innovative solutions over multiple program stages.",
   },
-  {
-    title: "INTERNSHIP",
-    organization: "SkillDzire ",
-    period: "2024 –Jun2024|Remote",
-    description: "Developed embedded system prototypes for real-time health monitoring and home automation using ESP32. Worked on sensor interfacing and microcontroller integration, and conducted functional validation along with field-level testing to ensure accuracy, reliability, and system stability.",
-    tech: ["ESP32", "Sensors", "Embedded Programming", "IoT", "System Testing"]
-  },
-  {
-    title: "INTERNSHIP",
-    organization: "South Central Railway – Women’s Welfare Organisation",
-    period: "May 2025 -July 2025| Vijayawada",
-    description: "Gained practical exposure to railway signaling infrastructure and train communication protocols. Assisted in inspection, fault diagnosis, and routine maintenance activities for signaling systems and railway communication networks, ensuring safe and reliable operations.",
-  },
+
 
   // {
   //   title: "Full-Stack Developer Intern",

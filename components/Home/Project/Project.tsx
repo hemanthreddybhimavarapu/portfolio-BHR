@@ -38,6 +38,16 @@ const projects: ProjectType[] = [
     githubUrl: "#",
   },
   {
+    id: 5,
+    title: "Smart Health Monitoring System with IoT, AI & Cloud Integration",
+    tech: ["ESP32-S3", "IoT", "Sensor Integration",],
+    description:
+      "Developed an advanced IoT-based smart health monitoring system using ESP32-S3 and multiple biomedical sensors to track patient vitals in real time. The system integrates ECG, SpO₂, temperature, motion, and environmental sensors for continuous data collection and processing. Edge computing techniques were implemented for low-latency signal processing and accurate analysis. The processed data is transmitted securely to a cloud platform using HTTP/HTTPS APIs, enabling remote monitoring through a web dashboard. An AI-driven module provides anomaly detection and emergency alerts, improving patient safety and healthcare efficiency.",
+    images: ["/project 5.jpeg"],
+    liveUrl: "https://weather-delta-steel.vercel.app/",
+    githubUrl: "https://github.com/hemanthreddybhimavarapu/Smart-Health-Monitoring-System",
+  },
+  {
     id: 4,
     title: "Responsive HTML & CSS Blog Template",
     tech: [" HTML5", "CSS3", "Responsive Design", "Semantic Tags"],
