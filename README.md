@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paul Sunny - MERN Stack Developer Portfolio
 
 A premium, high-performance portfolio website built with modern web technologies. This project showcases technical expertise in the MERN stack through a sophisticated, interactive, and fully responsive user interface.
@@ -62,3 +63,6 @@ A premium, high-performance portfolio website built with modern web technologies
 ## 📄 License
 
 This project is licensed under the MIT License.
+=======
+# portfolio-BHR
+>>>>>>> c77ca1d74cb4366ce77eb64049cc3b4bd8194c5c
