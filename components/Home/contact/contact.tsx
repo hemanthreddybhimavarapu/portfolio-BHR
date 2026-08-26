@@ -59,10 +59,13 @@ const Contact = () => {
 
   const handleDownloadResume = () => {
     const link = document.createElement("a");
-    link.href = "B_HEMANTH_REDDY_RESUME.pdf";
+    link.href = "/B_HEMANTH_REDDY_RESUME.pdf";
     link.download = "B_HEMANTH_REDDY_RESUME.pdf";
+    document.body.appendChild(link);
     link.click();
+    document.body.removeChild(link);
   };
+
 
   return (
     <section
