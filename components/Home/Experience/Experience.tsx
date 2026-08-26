@@ -13,6 +13,14 @@ const experiences = [
     description: "Developing full-stack web applications using Java and modern frontend frameworks, focusing on performance and scalability. Implementing RESTful APIs, managing databases, and integrating AI-based features for intelligent decision-making. Collaborating on real-time projects, applying clean coding practices, and using version control for efficient development workflows",
     tech: ["Java", "Spring Boot", "Servlets", "MySQL", "HTML", "CSS", "JavaScript", "React.js", "Git", "GitHub", "REST API"]
   },
+
+  {
+    title: "Java Technology Stack Intern",
+    organization: "Infosys Springboard | 2026",
+    period: "June 2026 – Aug 2026",
+    description: "Completed hands-on training in the Java Technology Stack, applying OOP, database connectivity, backend development, and REST API concepts through practical assignments and projects.",
+    tech: ["JAVA", "SPRING", "MYSQL", "REST APIs"]
+  },
   {
     title: "Portable Rapid Microbial Detection for Dairy Safety",
     organization: "1.SMART INDIA HACKATHON 2024",
@@ -20,13 +28,7 @@ const experiences = [
     description: "As a Smart India Hackathon participant, I worked on developing a portable system for rapid quality assessment of milk and dairy products. The project combined sensor-based data collection with AI-driven analysis, allowing real-time evaluation while applying both Electronics and IT-oriented development skills.",
     tech: ["Sensors", "Embedded Systems", "AI/ML Analysis", "Backend APIs", "Database", "Cloud Integration", "Web Dashboard", "Data Visualization"]
   },
-  {
-    title: "INTERNSHIP",
-    organization: "Virtual Internships & Job Simulations",
-    period: "Sep2024 – Nov2025",
-    description: "As a fresher, I worked with datasets using exploratory data analysis to understand trends, data quality issues, and potential risk indicators. I also supported the development of a no-code predictive analytics model to assess customer delinquency risk, while following ethical and responsible data practices.",
 
-  },
   {
     title: "Participant – Future Founders Startup Innovation Program",
     organization: "sri Mayuri Builders and Developers Pvt.Ltd.(RITH)",
@@ -49,7 +51,7 @@ const educations = [
     title: "Bachelor of Technology",
     organization: "PSCMR COLLEGE OF ENGINEERING AND TECHNOLOGY VIJAYAWADA",
     period: "2022 - 2026",
-    description: "Focused on core Electronics and Communication Engineering fundamentals with a strong inclination toward IT, software development, and web technologies.",
+    description: "B.Tech in Electronics and Communication Engineering with a strong focus on software development and full-stack technologies.",
   },
   {
     title: "Higher Secondary Education",

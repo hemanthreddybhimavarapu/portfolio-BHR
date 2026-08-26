@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Paul Sunny - MERN Stack Developer Portfolio
+# B.Hemanth Reddy- MERN Stack Developer Portfolio
 
 A premium, high-performance portfolio website built with modern web technologies. This project showcases technical expertise in the MERN stack through a sophisticated, interactive, and fully responsive user interface.
 
