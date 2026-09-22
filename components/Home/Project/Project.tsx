@@ -34,7 +34,7 @@ const projects: ProjectType[] = [
     tech: ["Java 17", "Spring Boot", "React.js", "PostgreSQL", "Docker", "JWT", "Monaco Editor"],
     description:
       "CodeArena is a full-stack coding practice platform that allows users to browse programming problems, write and submit code through an online Monaco Editor, and receive automated results based on multiple test cases. It uses Docker-based sandboxed execution to safely run code with time and memory limits, along with JWT authentication, role-based access, problem management, progress tracking, submission history, and leaderboards. The platform supports Java, Python, C++, and JavaScript.",
-    images: ["/project-7.jpeg"],
+    images: ["/project-7.jpg"],
     liveUrl: "https://code-arena-kohl-one.vercel.app/",
     githubUrl: "https://github.com/hemanthreddybhimavarapu/code-arena",
   },
