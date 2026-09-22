@@ -34,9 +34,20 @@ const projects: ProjectType[] = [
     tech: ["Java 17", "Spring Boot", "React.js", "PostgreSQL", "Docker", "JWT", "Monaco Editor"],
     description:
       "CodeArena is a full-stack coding practice platform that allows users to browse programming problems, write and submit code through an online Monaco Editor, and receive automated results based on multiple test cases. It uses Docker-based sandboxed execution to safely run code with time and memory limits, along with JWT authentication, role-based access, problem management, progress tracking, submission history, and leaderboards. The platform supports Java, Python, C++, and JavaScript.",
-    images: ["/project-7.jpg"],
+    images: ["/project-7.jpeg"],
     liveUrl: "https://code-arena-kohl-one.vercel.app/",
     githubUrl: "https://github.com/hemanthreddybhimavarapu/code-arena",
+  },
+  {
+    id: (2),
+    title: "WanderAI — AI-Powered Travel Planning Platform",
+    tech: ["React.js", "Next.js", "JavaScript", "Tailwind CSS", "AI"],
+    description:
+      "WanderAI is an AI-powered travel planning platform that helps users create personalized travel itineraries based on their destination, budget, interests, and travel preferences. It provides interactive destination discovery, attraction exploration, personalized travel recommendations, and an intuitive responsive interface designed to make trip planning simple and engaging.",
+    images: ["/project-2.jpeg"],
+    images: ["/project-2(1).jpeg"],
+    liveUrl: "https://wander-ai-sigma.vercel.app/",
+    githubUrl: "https://github.com/hemanthreddybhimavarapu/Wander-AI",
   },
   {
     id: 1,
@@ -53,7 +64,7 @@ const projects: ProjectType[] = [
     title: "Smart Health Monitoring System with IoT, AI & Cloud Integration",
     tech: ["ESP32-S3", "IoT", "Sensor Integration",],
     description:
-      "Developed an advanced IoT-based smart health monitoring system using ESP32-S3 and multiple biomedical sensors to track patient vitals in real time. The system integrates ECG, SpO₂, temperature, motion, and environmental sensors for continuous data collection and processing. Edge computing techniques were implemented for low-latency signal processing and accurate analysis. The processed data is transmitted securely to a cloud platform using HTTP/HTTPS APIs, enabling remote monitoring through a web dashboard. An AI-driven module provides anomaly detection and emergency alerts, improving patient safety and healthcare efficiency.",
+      "Developed an advanced IoT-based smart health monitoring system using ESP32-S3 and multiple biomedical sensors to track patient vitals in real time. The system integrates ECG, SpO₂, temperature, motion, and environmental sensors for continuous data collection and processing. Edge computing techniques were implemented for low-latency signal processing and accurate analysis. ",
     images: ["/project 5.jpeg"],
     liveUrl: "https://weather-delta-steel.vercel.app/",
     githubUrl: "https://github.com/hemanthreddybhimavarapu/Smart-Health-Monitoring-System",
@@ -66,33 +77,6 @@ const projects: ProjectType[] = [
     images: ["/project-4.jpeg"],
     liveUrl: "https://weather-delta-steel.vercel.app/",
     githubUrl: "https://github.com/paulsunny90/weather-app",
-  },
-
-  {
-    id: 3,
-    title: "Binance Futures Trading Bot",
-    tech: ["Python", "Binance API", "Algorithmic Trading", "Data Analysis"],
-    description:
-      "Built an automated trading bot in Python using the Binance API to execute real-time futures trades. Integrated technical indicators and algorithmic trading strategies to improve decision-making, and leveraged data analysis and automation workflows to enhance trade execution speed and efficiency.",
-    images: [
-      "/project-3(1).jpg",
-      "/project-3.jpeg",
-    ],
-    liveUrl: "https://drive.google.com/drive/folders/1DFPWomO8DCdrOhLQrI4Ycs4eOeBFuBmB?usp=drive_link",
-    githubUrl: "https://github.com/hemanthreddybhimavarapu/crypto-trading-bot",
-  },
-  {
-    id: 2,
-    title: "IoT Smart Home Security System",
-    tech: ["ESP32", "MQTT", "AES/TLS Encryption", "Embedded C/C++"],
-    description:
-      "Implemented a smart home solution using ESP32 and multiple sensors, incorporating AES/TLS encryption for secure communication and MQTT for real-time data transfer. Developed real-time sensor data acquisition and control logic to enable reliable home automation.",
-    images: [
-      "/project-2(1).jpeg",
-      "/project-2(2).jpeg",
-    ],
-    liveUrl: "https://drive.google.com/file/d/1I1J0cO4wKCTiyf_Wj3vUqoTfOcH4HJ4j/view?usp=drive_link",
-    githubUrl: "#",
   },
 ];
 
