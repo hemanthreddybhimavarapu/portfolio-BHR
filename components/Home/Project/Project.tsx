@@ -44,8 +44,7 @@ const projects: ProjectType[] = [
     tech: ["React.js", "Next.js", "JavaScript", "Tailwind CSS", "AI"],
     description:
       "WanderAI is an AI-powered travel planning platform that helps users create personalized travel itineraries based on their destination, budget, interests, and travel preferences. It provides interactive destination discovery, attraction exploration, personalized travel recommendations, and an intuitive responsive interface designed to make trip planning simple and engaging.",
-    images: ["/project-2.jpeg"],
-    images: ["/project-2(1).jpeg"],
+    images: ["/project-2.jpeg", "/project-2(1).jpeg"],
     liveUrl: "https://wander-ai-sigma.vercel.app/",
     githubUrl: "https://github.com/hemanthreddybhimavarapu/Wander-AI",
   },
